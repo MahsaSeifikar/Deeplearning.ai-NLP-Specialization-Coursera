@@ -6,6 +6,7 @@ It contains four courses:
  ## 1. [Natural Language Processing with Classification and Vector](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
  
  - **Week :one:** : *Sentiment Analysis with Logestic Regression* :ballot_box_with_check:
+ - **Week :two:** : *Sentiment Analysis with Naive Bayes* 
     
     
  ## 2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
