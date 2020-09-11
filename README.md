@@ -7,6 +7,9 @@ It contains four courses:
  
  - **Week :one:** : *Sentiment Analysis with Logestic Regression* :ballot_box_with_check:
  - **Week :two:** : *Sentiment Analysis with Naive Bayes* :ballot_box_with_check:
+ - **Week :three:** : *Vector Space Model*
+ - **Week :four:** : *Machine Translation and Document search* 
+ 
     
     
  ## 2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
