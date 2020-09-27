@@ -1,6 +1,6 @@
 # Natural-Language-Processing-Specialization-Coursera
 
-This repository contains the solutions of [NLP Specialization](https://www.coursera.org/specializations/natural-language-processing) in [Coursera](https://www.coursera.org/).
+This repository contains the solutions of [Deaplearning.ai NLP Specialization](https://www.coursera.org/specializations/natural-language-processing) in [Coursera](https://www.coursera.org/).
 
 It contains four courses:
  ## 1. [Natural Language Processing with Classification and Vector](https://www.coursera.org/learn/classification-vector-spaces-in-nlp)
