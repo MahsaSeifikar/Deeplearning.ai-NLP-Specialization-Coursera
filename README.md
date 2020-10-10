@@ -14,7 +14,7 @@ It contains four courses:
     
  ## 2. [Natural Language Processing with Probabilistic Models](https://www.coursera.org/learn/probabilistic-models-in-nlp)
  
- - **Week :one:** : *Autocorrect* 
+ - **Week :one:** : *Autocorrect* :ballot_box_with_check:
  - **Week :two:** : *Part of Speech Tagging and Hidden Markov Model* 
  - **Week :three:** : *Autocomplete and Language Models* 
  - **Week :four:** : *Word Emgedding with Neural Network* 
